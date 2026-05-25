@@ -1,5 +1,7 @@
 # Using Custom API Key in Kimi Code VS Code Extension
 
+[中文](./kimi-code-cn-endpoint-guide.zh.md) | [Русский](./kimi-code-cn-endpoint-guide.ru.md)
+
 By default, the **Kimi Code** VS Code extension uses the built-in **Kimi subscription** (managed by Moonshot AI). However, you can configure it to use your own **API key** from [platform.moonshot.cn](https://platform.moonshot.cn) or [platform.moonshot.ai](https://platform.moonshot.ai).
 
 This guide explains how to switch from the managed subscription to a custom API key, with support for both the **global** (`api.moonshot.ai`) and **China mainland** (`api.moonshot.cn`) endpoints.
