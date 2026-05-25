@@ -1,6 +1,6 @@
 # 在 Kimi Code VS Code 扩展中使用自定义 API 密钥
 
-[English](./kimi-code-cn-endpoint-guide.md) | [Русский](./kimi-code-cn-endpoint-guide.ru.md)
+[English](./README.md) | [Русский](./kimi-code-cn-endpoint-guide.ru.md)
 
 默认情况下，**Kimi Code** VS Code 扩展使用内置的 **Kimi 订阅**（由 Moonshot AI 管理）。但你可以将其配置为使用自己在 [platform.moonshot.cn](https://platform.moonshot.cn) 或 [platform.moonshot.ai](https://platform.moonshot.ai) 上获取的 **API 密钥**。
 
