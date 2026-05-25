@@ -1,6 +1,6 @@
 # Использование собственного API-ключа в расширении Kimi Code для VS Code
 
-[English](./kimi-code-cn-endpoint-guide.md) | [中文](./kimi-code-cn-endpoint-guide.zh.md)
+[English](./README.md) | [中文](./kimi-code-cn-endpoint-guide.zh.md)
 
 По умолчанию расширение **Kimi Code** для VS Code использует встроенную **подписку Kimi** (управляется Moonshot AI). Однако вы можете настроить его на использование собственного **API-ключа** из [platform.moonshot.cn](https://platform.moonshot.cn) или [platform.moonshot.ai](https://platform.moonshot.ai).
 
